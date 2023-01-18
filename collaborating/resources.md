@@ -19,7 +19,7 @@
 
 ### Articles
 
-
+* [All About Data Locations](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471)
 
 ### CTF's
 
