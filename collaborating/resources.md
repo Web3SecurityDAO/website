@@ -13,9 +13,12 @@
 
 ### Roadmaps
 
-* [Secereum Mind Map](https://github.com/x676f64/secureum-mind_map)
+* [Secereum Mind Map](https://github.com/x676f64/secureum-mind\_map)
 * [Matta Aereal’s Security RoadMap](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7)
 * [Wufflz Blockchain Security Guide](https://wufflz.notion.site/Blockchain-security-guide-b26aec3d920e414d8a354618d3e36eb4)
+* [The Auditoor Grindset by Zellic](https://www.zellic.io/blog/the-auditooor-grindset)
+* [Smart Contract Auditor Roadmap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
+* [How to become Smart Contract Auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) by [cmichel](https://twitter.com/cmichelio)
 
 ### Articles
 
@@ -35,5 +38,60 @@
 * [CTF Protocol](https://www.ctfprotocol.com/)
 * [https://github.com/secureum/DeFi-Security-Summit-Stanford](https://github.com/secureum/DeFi-Security-Summit-Stanford)
 * [https://github.com/immunefi-team/community-challenges](https://github.com/immunefi-team/community-challenges)
+* [Blocksec CTF's](https://github.com/blockthreat/blocksec-ctfs)
+
+
+
+### Attacks
+
+* [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks/)
+* [Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks)
+
+
+
+### Guidelines
+
+* [Smart Contract Attack Vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors)
+* [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
+* [Smart Contract Vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
+* [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+* [The Solcurity Standard](https://github.com/transmissions11/solcurity)
+* [Smart Contract Vulnerabilities (SCV) List](https://github.com/sirhashalot/SCV-List)
+* [Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library)
+
+
+
+### Audit Databases
+
+* [masamune.app](https://masamune.app/?)
+* [audit-hero](https://audit-hero.com)
+* [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+* [The Auditbook](https://theauditorbook.com)
+
+
+
+### Solidity
+
+* [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+* [Solidity Quiz](https://rareskill-webtres.vercel.app/practice)
+* [Solidity by Example](https://solidity-by-example.org)
+* [Classified list of errors in Solidity](https://swcregistry.io/)
+
+
+
+### Proxies
+
+[Proxies by yAcademy](https://proxies.yacademy.dev)
+
+
+
+### EVM
+
+* [The EVM Handbook](https://noxx3xxon.notion.site/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
+
+
 
 ### Tools
+
+* [ETH Transaction Visualiser](https://txstreet.com/v/eth)
+
