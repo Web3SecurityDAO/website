@@ -1,9 +1,3 @@
 # 🚀 Vision, Mission & Focus
 
-## Our Vision
-
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+A Vision, Mission & Focus page is a section on a website or platform that outlines the organization's goals, purpose, and priorities. The Vision statement describes the organization's desired future state or aspirations. The Mission statement explains the organization's purpose, what it does and for whom. The Focus statement highlights the specific areas of interest or priority of the organization. Together, these three statements provide a clear and concise overview of the organization's goals, values, and objectives, and serve as a guide for decision-making and action.

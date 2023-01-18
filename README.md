@@ -14,8 +14,6 @@ We're waiting for you on our Discord server! [https://discord.gg/DtqrhkTjr8](htt
 
 <summary>Contributing</summary>
 
-If you want to contribute changes, start a new change request and submit it for review.&#x20;
-
-[https://github.com/web3SecurityDAO/website](https://github.com/web3SecurityDAO/website)
+If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
 </details>
