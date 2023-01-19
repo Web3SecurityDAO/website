@@ -87,7 +87,7 @@
 * [ETH Transaction Visualiser](https://txstreet.com/v/eth)
 * [Sigs Database](https://www.4byte.directory/)
 
-## Gas
+### Gas
 
 * [Opcode Gas Dynamics](https://github.com/wolflo/evm-opcodes/blob/main/gas.md)
 
@@ -96,3 +96,11 @@
 * [Github Home](https://github.com/foundry-rs/foundry)
 * [Foundry Book](https://book.getfoundry.sh/)
 * [Curated list of Foundry resources](https://github.com/crisgarner/awesome-foundry)
+
+### Youtube
+
+* [EVM: From Solidity to bytecode,memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+* [Ethereum Yellow Paper Course](https://www.youtube.com/watch?v=e84V1MxRlYs)
+* [Solidity Fridays Series by Linum Labs](https://www.youtube.com/@SolidityFridays)
+* [Devs Do Something Podcast](https://www.youtube.com/playlist?list=PLDbmvLe0WRANXRbgF77iXGNxhRYQXenK7)
+
