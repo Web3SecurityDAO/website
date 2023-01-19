@@ -65,6 +65,7 @@
 * [audit-hero](https://audit-hero.com)
 * [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 * [The Auditbook](https://theauditorbook.com)
+* [Beanstalk Immunefi Bug Reports](https://beanstalk-farms.notion.site/Bug-Reports-f653305e4ed74734bb5dfe173aa8d98f)
 
 ### Solidity
 
