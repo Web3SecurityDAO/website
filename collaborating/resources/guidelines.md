@@ -11,3 +11,4 @@ description: A compilation of web3 security and web3 development guidelines
 * [The Solcurity Standard](https://github.com/transmissions11/solcurity)
 * [Smart Contract Vulnerabilities (SCV) List](https://github.com/sirhashalot/SCV-List)
 * [Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library)
+* [Smart Contract Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
