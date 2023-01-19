@@ -11,7 +11,7 @@
 
 ## Collaborating
 
-* [🤝 Resources](collaborating/resources/README.md)
+* [🤝 Resources](collaborating/resources.md)
   * [📰 Websites & Newsletters](collaborating/resources/websites-and-newsletters.md)
   * [🗺 Roadmaps](collaborating/resources/roadmaps.md)
   * [🚩 CTFs](collaborating/resources/ctfs.md)
