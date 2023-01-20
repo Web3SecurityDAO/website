@@ -8,3 +8,4 @@ description: A compilation of resources for all the audio-visual learners out th
 * [Ethereum Yellow Paper Course](https://www.youtube.com/watch?v=e84V1MxRlYs)
 * [Solidity Fridays Series by Linum Labs](https://www.youtube.com/@SolidityFridays)
 * [Devs Do Something Podcast](https://www.youtube.com/playlist?list=PLDbmvLe0WRANXRbgF77iXGNxhRYQXenK7)
+* [Smart Contract Security and Auditing 101 by Chainlink](https://www.youtube.com/watch?v=0aJfCug1zTM)
