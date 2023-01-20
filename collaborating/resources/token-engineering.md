@@ -1,6 +1,6 @@
 ---
 description: >-
-  Tokenecomomics plays an important part in decentralisation and monitisation of a protocol.
+  Tokenecomomics plays an important part in decentralisation and monetisation of a protocol.
 ---
 
 # ⚙️ Token Engineering
