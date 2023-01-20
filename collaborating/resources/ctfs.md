@@ -20,3 +20,4 @@ description: >-
 * [https://github.com/secureum/DeFi-Security-Summit-Stanford](https://github.com/secureum/DeFi-Security-Summit-Stanford)
 * [https://github.com/immunefi-team/community-challenges](https://github.com/immunefi-team/community-challenges)
 * [Blocksec CTF's](https://github.com/blockthreat/blocksec-ctfs)
+* [Sherlock CTF's](https://github.com/sherlock-protocol/sherlock-ctf-0x0)
