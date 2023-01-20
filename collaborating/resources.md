@@ -86,6 +86,20 @@
 
 * [ETH Transaction Visualiser](https://txstreet.com/v/eth)
 * [Sigs Database](https://www.4byte.directory/)
+* [Foundry Book](https://book.getfoundry.sh/)
+* [Ethereum Signature Database](https://sig.eth.samczsun.com/)
+* [Ethereum Signature Database 2](https://www.4byte.directory/)
+* [RapidTables](https://www.rapidtables.com/)
+* [ABDK Toolkit](https://toolkit.abdk.consulting/math#convert-number)
+* [Desmos](https://www.desmos.com/)
+* [WolfRam Alpha](https://www.wolframalpha.com/)
+* [TintinWeb Solidity Shell](https://github.com/tintinweb/solidity-shell)
+* [WhiteNoise Foundry](https://github.com/whitenois3/foundry/tree/feat/repl/chisel)
+* [Maurelian Solidity Sandbox](https://github.com/maurelian/solidity-sandbox)
+* [ETH Calldata Decoder](https://apoorvlathey.com/eth-calldata-decoder/)
+* [Tenderly Sandbox](https://sandbox.tenderly.co/)
+* [Tenderly](https://dashboard.tenderly.co/)
+* [Abi Ninja](https://abi.ninja/)
 
 ### Gas
 
