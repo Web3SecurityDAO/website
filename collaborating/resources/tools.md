@@ -21,3 +21,4 @@ description: A tool chest to make your journey easier
 * [Tenderly Sandbox](https://sandbox.tenderly.co/) Used to simulate transactions on contracts
 * [Tenderly](https://dashboard.tenderly.co/) Debug contracts, optimise gas costs
 * [Abi Ninja](https://abi.ninja/) Interact with any contract on Ethereum
+* [Phalcon](https://phalcon.blocksec.com) A powerful transaction explorer designed for the DeFi community
