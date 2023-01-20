@@ -6,3 +6,4 @@ description: A tool chest to make your journey easier
 
 * [ETH Transaction Visualiser](https://txstreet.com/v/eth)
 * [Sigs Database](https://www.4byte.directory/)
+* [solidlint - Ethereum code browser](https://www.solidlint.com/)
