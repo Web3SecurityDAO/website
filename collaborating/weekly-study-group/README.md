@@ -6,7 +6,11 @@ description: >-
 
 # 🗓 Weekly Study Group
 
-### Schedule&#x20;
+### Where
+
+[In our discord server. Come join us! ](https://discord.gg/gnJXHzhs)
+
+### When&#x20;
 
 Presently we meet at 6pm UTC:
 
@@ -23,6 +27,4 @@ We discuss a wide variety of topics in the study group. The topic will always be
 
 As feasible, we will provide a recap of study group sessions for those who are unable to attend, denoting key learnings and points of interest from the discussion.
 
-### Where
-
-[In our discord server. Come join us! ](https://discord.gg/gnJXHzhs)
+###
