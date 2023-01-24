@@ -23,3 +23,4 @@ description: >-
 - [EVM Deep dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
 - [Understanding Smart Contract storages](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 - [Solidity Inline Assembly](https://morioh.com/p/225ed66c006c)
+- [What Happens When You Send One DAI]([https://morioh.com/p/225ed66c006c](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai))
