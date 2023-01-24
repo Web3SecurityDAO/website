@@ -25,3 +25,5 @@
   * [⛽ Gas](collaborating/resources/gas.md)
   * [🔥 Foundry](collaborating/resources/foundry.md)
   * [📺 Youtube](collaborating/resources/youtube.md)
+* [🗓 Weekly Study Group](collaborating/weekly-study-group/README.md)
+  * [🥇 Genesis Study Group (02/01/23)](collaborating/weekly-study-group/genesis-study-group-02-01-23.md)
