@@ -21,6 +21,7 @@
 * [The Auditoor Grindset by Zellic](https://www.zellic.io/blog/the-auditooor-grindset)
 * [Smart Contract Auditor Roadmap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
 * [How to become Smart Contract Auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) by [cmichel](https://twitter.com/cmichelio)
+* [Hacking the Blockchain: The Ultimate Guide](https://link.medium.com/kniRfg8hPwb) by [Sleepy](https://twitter.com/0xsomnus)
 
 ### Articles
 
@@ -86,6 +87,7 @@
 
 * [ETH Transaction Visualiser](https://txstreet.com/v/eth)
 * [Sigs Database](https://www.4byte.directory/)
+* [Free Public Ethereum RPC Endpoint](https://eth.public-rpc.com/)
 
 ### Gas
 
