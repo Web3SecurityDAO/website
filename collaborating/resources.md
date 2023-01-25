@@ -77,6 +77,8 @@
 ### Proxies
 
 * [Proxies by yAcademy](https://proxies.yacademy.dev)
+* [UUPS and Transparent Proxies by OpenZeppelin - video](https://www.youtube.com/watch?v=kWUDTZhxKZI)
+* [Beacon and Diamond Proxies by Byterocket - video](https://www.youtube.com/watch?v=iXLoSVcVhUg)
 
 ### EVM
 
