@@ -27,4 +27,5 @@
   * [📺 Youtube](collaborating/resources/youtube.md)
   * [🛡 Secureum](collaborating/resources/secureum.md)
 * [🗓 Weekly Study Group](collaborating/weekly-study-group/README.md)
-  * [🥇 Genesis Study Group (02/01/23)](collaborating/weekly-study-group/genesis-study-group-02-01-23.md)
+  * [🥇 Genesis Study Group (02/01/23)](collaborating/weekly-study-group/genesis-study-group-02-01-23/README.md)
+    * [Resources (02/01/23)](collaborating/weekly-study-group/genesis-study-group-02-01-23/resources-02-01-23.md)
