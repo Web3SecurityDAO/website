@@ -26,4 +26,4 @@ description: A tool chest to make your journey easier
 - [play by Instadapp](play.instadapp.io) typescript envirnment to interact and deploy smart contracts
 - [Toolbox by Instadapp](https://toolbox.instadapp.io/)
 - [Phalcon](https://phalcon.blocksec.com) A powerful transaction explorer designed for the DeFi community
-
+- [Heimdall](https://github.com/Jon-Becker/heimdall-rs) EVM Decompiler and analysis toolkit
