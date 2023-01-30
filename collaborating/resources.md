@@ -74,6 +74,7 @@
 * [Solidity Quiz](https://rareskill-webtres.vercel.app/practice)
 * [Solidity by Example](https://solidity-by-example.org)
 * [Classified list of errors in Solidity](https://swcregistry.io/)
+* [Web3 Developer Anki Cards](https://github.com/therealharpaljadeja/web3-developer-anki-cards)
 
 ### Proxies
 
