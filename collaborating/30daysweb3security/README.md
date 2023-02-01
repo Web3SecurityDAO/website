@@ -11,8 +11,8 @@
 The leaderboard will track your score for this challenge. 
 1 tweet = 1 point
 Depending on your score, you will qualify for something in the future...
-Starting Date 02/01/23 7pm UTC
-Last Day 03/02/23 7pm UTC
+Starting Date 02/01/23 7pm GMT
+Last Day 03/02/23 7pm GMT
 
 ### Sample Tweet
 
