@@ -15,7 +15,7 @@
 
 ### Roadmaps
 
-* [Secereum Mind Map](https://github.com/x676f64/secureum-mind\_map)
+* [Secureum Mind Map](https://github.com/x676f64/secureum-mind\_map)
 * [Matta Aereal’s Security RoadMap](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7)
 * [Wufflz Blockchain Security Guide](https://wufflz.notion.site/Blockchain-security-guide-b26aec3d920e414d8a354618d3e36eb4)
 * [The Auditoor Grindset by Zellic](https://www.zellic.io/blog/the-auditooor-grindset)
@@ -86,11 +86,18 @@
 
 * [The EVM Handbook](https://noxx3xxon.notion.site/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
 * [EVM Handbook - Mastering ethereum](https://cypherpunks-core.github.io/ethereumbook/)
+* [EVM Puzzles by fvictorio](https://github.com/fvictorio/evm-puzzles)
+* [More EVM Puzzles by daltyboy11](https://github.com/daltyboy11/more-evm-puzzles)
+* [The Ethereum Virtual Machine by jtriley](https://github.com/jtriley-eth/the-ethereum-virtual-machine)
 
 ### Tools
 
 * [ETH Transaction Visualiser](https://txstreet.com/v/eth)
+* [samczsun's Tx viewer](https://tx.eth.samczsun.com/)
+* [Tenderly Dashboard](https://dashboard.tenderly.co/explorer)
+* [Phalcon explorer](https://phalcon.blocksec.com/)
 * [Sigs Database](https://www.4byte.directory/)
+* [Codeslaw](https://www.codeslaw.app/)
 * [Free Public Ethereum RPC Endpoint](https://eth.public-rpc.com/)
 
 ### Gas
