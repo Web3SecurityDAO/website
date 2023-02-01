@@ -8,7 +8,16 @@
 
 #### Leaderboard Details
 
-The leaderboard will track your score for this challenge. 1 tweet = 1 point Depending on your score, you will qualify for something in the future... Starting Date 02/01/23 7pm GMT Last Day 03/02/23 7pm GMT
+The leaderboard will track your score for this challenge.&#x20;
+
+1 tweet = 1 point&#x20;
+
+Depending on your score, you will qualify for
+
+1. Eligibility to be part of the DAO Code4rena team.
+2. Eligibility to participate in a private CTF for DAO members
+
+Starting Date 02/01/23 7pm GMT Last Day 03/02/23 7pm GMT
 
 #### Sample Tweet Day 1
 
@@ -26,7 +35,7 @@ Optional: (screenshot of something you read or meme about web3security)
 
 🔥 Day 2 of #30daysweb3security @Web3SecurityDAO
 
-Today, I started a deep of EVM using the EVM handbook.
+Today, I started deep of EVM using the EVM handbook.
 
 Optional: (screenshot of something you read or meme about web3security)
 
