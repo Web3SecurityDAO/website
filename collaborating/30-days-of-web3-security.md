@@ -59,6 +59,16 @@ OR for a structured approach use 👇
 
 {% embed url="https://twitter.com/bytes032/status/1618542353048031232" %}
 
+### If you want to dive deep into the EVM:
+
+You can check the DAO [Resources](https://www.web3securitydao.xyz/collaborating/resources) page
+
+OR for a structured approach use 👇
+
+{% embed url="https://twitter.com/bytes032/status/1619991760792584194?s=20&t=8ziClBcoqISqj3_sQILuvA" %}
+
+###
+
 ### If you want to read audit reports:
 
 You can check the DAO [Resources](https://www.web3securitydao.xyz/collaborating/resources) page
