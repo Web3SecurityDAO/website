@@ -14,7 +14,7 @@ The leaderboard will track your score for this challenge. 1 tweet = 1 point Depe
 
 🔥 Day 1 of #30daysweb3security @Web3SecurityDAO
 
-Today, I read about best security practises for smart contracts from Secereum Slot 4. I learned about Reentrancy Vulnerabilities and how to prevent them 👔
+Today, I read about best security practices for smart contracts from Secereum Slot 4. I learned about Reentrancy Vulnerabilities and how to prevent them 👔
 
 I challenge @bytes032 @evmBrahmin and @prady\_v to learn in public with me 🚀
 
@@ -32,9 +32,7 @@ Optional: (screenshot of something you read or meme about web3security)
 
 
 
-## You need a guided path? We got you!
-
-###
+## Do you need a guided path? We got you!
 
 ### How do I start?
 
@@ -70,7 +68,7 @@ You can check the DAO [Resources](https://www.web3securitydao.xyz/collaborating/
 
 OR for a structured approach use 👇
 
-{% embed url="https://twitter.com/bytes032/status/1617086664618156039?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1617086664618156039%7Ctwgr%5Ef39e839b499790606ec4f5b8ef759fc67ee4ef6e%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcdn.iframe.ly%2FEoCXUmS%3Fapp%3D1" %}
+{% embed url="https://twitter.com/bytes032/status/1614183877114748930" %}
 
 ### If you wanna learn from real-life exploits:
 
