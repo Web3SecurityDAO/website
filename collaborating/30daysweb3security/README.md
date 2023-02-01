@@ -8,17 +8,17 @@
 
 ### Leaderboard Details
 
-The leaderboard will track your score for this challenge. 
-1 tweet = 1 point
-Depending on your score, you will qualify for something in the future...
 Starting Date 02/01/23 7pm GMT
 Last Day 03/02/23 7pm GMT
+1 tweet = 1 point
+The leaderboard will track your score for this challenge. 
+Prizes include ability to particpate in a private CTF for Web3SecurityDAO members and eligibility for Web3SecurityDAO's Codea4rena Team.
 
 ### Sample Tweet
 
 🔥 Day 1 of #30daysweb3security @Web3SecurityDAO
 
-Today, I read about best security practises for smart contracts from Secereum Slot 4. I learned about Reentrancy Vulnerabilities and how to prevent them 👔 
+Today, I read about best security practices for smart contracts from Secereum Slot 4. I learned about Reentrancy Vulnerabilities and how to prevent them 👔 
 
 I challenge @bytes032 @evmBrahmin and @prady_v to learn in public with me 🚀
 
