@@ -1,4 +1,4 @@
-# 30 Days of Web3 Security
+# 🎯 30 Days of Web3 Security
 
 #### Important Requirements
 
