@@ -1,5 +1,5 @@
 ---
-description: Resources for our genesis study group
+description: Meeting Minutes & Links
 ---
 
 # ⌛️ Meeting Minutes
