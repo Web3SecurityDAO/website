@@ -23,4 +23,4 @@ Welcome to the Web3Security DAO genesis study group! We are going to kick off th
 
 ### Where?
 
-In the discord server!
+[In our discord server. Come join us! ](https://discord.gg/gnJXHzhs)
