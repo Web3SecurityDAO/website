@@ -8,7 +8,6 @@ description: A tool chest to make your journey easier
 - [Ethereum Signature Database](https://sig.eth.samczsun.com/) Database of Ethereum Sugnatures
 - [solidlint](https://www.solidlint.com/) Ethereum code browser
 - [Sigs Database](https://www.4byte.directory/) A subset of Ethereum Signature Database
-- [ETH Transaction Visualiser](https://txstreet.com/v/eth)
 - [Foundry Book](https://book.getfoundry.sh/) A smart contract development toolchain
 - [RapidTables](https://www.rapidtables.com/) Online Calculator and Tools
 - [ABDK Toolkit](https://toolkit.abdk.consulting/math#convert-number) Toolkit for converting numbers
