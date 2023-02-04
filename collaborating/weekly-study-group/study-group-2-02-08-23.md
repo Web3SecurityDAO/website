@@ -2,7 +2,7 @@
 description: Week 2 of study group, all about Solidity!
 ---
 
-# Study Group #2 (02/08/23)
+# 2⃣ Study Group #2 (02/08/23)
 
 The Genesis study group was a success! We are going to build off of this momentum by going through Solidity 101, the second piece of the Secureum Bootcamp! [Find the Solidity 101 material here](https://secureum.substack.com/p/solidity-101)!
 
