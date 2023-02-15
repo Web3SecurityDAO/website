@@ -31,5 +31,6 @@
     * [⌛ Meeting Minutes](collaborating/weekly-study-group/genesis-study-group-02-01-23/resources-02-01-23.md)
   * [2⃣ Solidity 101 (02/08/23)](collaborating/weekly-study-group/solidity-101-02-08-23/README.md)
     * [⌛ Meeting Minutes](collaborating/weekly-study-group/solidity-101-02-08-23/meeting-minutes.md)
-  * [3⃣ Solidity 201! (02/15/23)](collaborating/weekly-study-group/solidity-201-02-15-23.md)
+  * [3⃣ Solidity 201! (02/15/23)](collaborating/weekly-study-group/solidity-201-02-15-23/README.md)
+    * [⌛ Meeting Minutes](collaborating/weekly-study-group/solidity-201-02-15-23/meeting-minutes.md)
 * [🎯 30 Days of Web3 Security](collaborating/30-days-of-web3-security.md)
