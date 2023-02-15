@@ -1,5 +1,11 @@
 README.md
 description
+
+
+
+
+
+
  We will go over 1 c4( Code4Arena) report a week in our discord server channel: Audit Study Club in the #weekly-c4-study-club.
 🗓 Weekly-c4-study-group
 Where
