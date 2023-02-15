@@ -13,7 +13,7 @@ description
 Where
 
 
-In our discord server. Come join us!
+https://discord.gg/gnJXHzhs
 
 
 
