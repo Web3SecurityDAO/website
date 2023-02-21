@@ -33,4 +33,5 @@
     * [⌛ Meeting Minutes](collaborating/weekly-study-group/solidity-101-02-08-23/meeting-minutes.md)
   * [3⃣ Solidity 201! (02/15/23)](collaborating/weekly-study-group/solidity-201-02-15-23/README.md)
     * [⌛ Meeting Minutes](collaborating/weekly-study-group/solidity-201-02-15-23/meeting-minutes.md)
+  * [Security Pitfalls & Best Practices 101](collaborating/weekly-study-group/security-pitfalls-and-best-practices-101.md)
 * [🎯 30 Days of Web3 Security](collaborating/30-days-of-web3-security.md)
